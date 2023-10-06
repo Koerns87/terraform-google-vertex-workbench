@@ -16,7 +16,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "UPDATE_ME"
+    bucket = "korn-securevertex-demo-tfstate"
     prefix = "terraform/vertex/state"
   }
 }
