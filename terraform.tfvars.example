@@ -2,4 +2,4 @@ org_id = "971669673447"
 billing_account = " 01843B-264FDA-60D51F"
 environment     = "enterpriseai"
 folder_id       = "123456"
-instance_owners = ["admin@andreaskorn.altostrat.com"]
+instance_owners = "admin@andreaskorn.altostrat.com"
