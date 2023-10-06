@@ -1,5 +1,4 @@
-org_id = "123456789"
-billing_account = "123456-123456-123456"
-environment     = "vertex"
-folder_id       = "123456"
-instance_owners = ["your_id@example.com"]
+org_id = "971669673447"
+billing_account = " 01843B-264FDA-60D51F"
+environment     = "infobotandreas2023"
+instance_owners = ["admin@andreaskorn.altostrat.com"]
